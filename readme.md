@@ -28,7 +28,7 @@ Example Git
 - `git checkout`
   - Change branches/workspace!
 
-Additional resources
+Additional Resources
 --------------------
 
 - [Git Pro](https://git-scm.com/book/en/v2)
