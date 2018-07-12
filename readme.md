@@ -23,8 +23,10 @@ Example Git
     - `-p` Show changes
     - `--oneline` Makes history output more brief
     - `-S` pickaxe, find commits with certain contents
+
 - `git branch`
   - Create/manage branches!
+
 - `git checkout`
   - Change branches/workspace!
 
